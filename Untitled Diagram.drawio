@@ -1,9 +1,57 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3 Safari/605.1.15" version="26.0.16">
   <diagram name="Page-1" id="S9eTGyQxFXrLGNSe0dMx">
-    <mxGraphModel>
+    <mxGraphModel dx="954" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="pj2v-7K1wGIa9h39KFa2-10" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pj2v-7K1wGIa9h39KFa2-1" target="pj2v-7K1wGIa9h39KFa2-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pj2v-7K1wGIa9h39KFa2-1" value="Tahun 2025" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pj2v-7K1wGIa9h39KFa2-16" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pj2v-7K1wGIa9h39KFa2-2" target="pj2v-7K1wGIa9h39KFa2-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pj2v-7K1wGIa9h39KFa2-2" value="&lt;span style=&quot;text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Pengembangan Desain Robot Inspeksi Rel&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pj2v-7K1wGIa9h39KFa2-3" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;Pengembangan AI untuk Deteksi Kerusakan &amp;amp; Optimasi Night Vision&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="340" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pj2v-7K1wGIa9h39KFa2-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;elbow=vertical;" edge="1" parent="1" source="pj2v-7K1wGIa9h39KFa2-4" target="pj2v-7K1wGIa9h39KFa2-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pj2v-7K1wGIa9h39KFa2-4" value="&lt;span style=&quot;text-align: start;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Analisis Koordinat &amp;amp; Prediksi Kerusakan Real-Time&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pj2v-7K1wGIa9h39KFa2-5" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;Ruang Lingkup:&lt;/font&gt;&lt;div&gt;1. Desain prototipe robot inspeksi rel.&lt;/div&gt;&lt;div&gt;2. Integrasi sensor, kamera resolusi tinggi, dan sistem night vision berbasis &lt;i&gt;Deep Curve Estimation &lt;/i&gt;(DCE).&lt;/div&gt;&lt;div&gt;3. Pembuatan prototipe mekanik awal.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Luaran:&lt;/div&gt;&lt;div&gt;1. Model desain mekanik robot inspeksi rel.&lt;/div&gt;&lt;div&gt;2. Draft spesifikasi hardware (sensor, sistem &lt;i&gt;night vision&lt;/i&gt;, sistem kendali).&lt;/div&gt;&lt;div&gt;3. Prototipe awal robot untuk uji laboratorium.&lt;/div&gt;&lt;div&gt;4. Dokumen rancangan teknis (&lt;i&gt;technical&amp;nbsp;drawings&lt;/i&gt;).&lt;/div&gt;&lt;div&gt;5. Minimal satu artikel dipresentasikan di konferensi nasional.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Indikator Kinerja:&lt;/div&gt;&lt;div&gt;1.&amp;nbsp;&lt;font style=&quot;font-size: 12px;&quot;&gt;Terbentuknya desain robot inspeksi rel yang siap diintegrasikan dengan modul sensor.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;2.&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Tersedia prototipe mekanik awal yang memenuhi standar keselamatan dasar.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="10" y="260" width="250" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="pj2v-7K1wGIa9h39KFa2-8" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Helvetica&quot;&gt;Ruang Lingkup:&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;1.&amp;nbsp;Pengembangan algoritma YOLOv8 untuk deteksi kerusakan (retakan, deformasi, korosi).&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;2. Integrasi Human Pose Estimation untuk analisis konteks struktural rel.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;3. Optimasi kualitas citra kondisi low-light dengan DCE.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Luaran:&lt;/div&gt;&lt;div&gt;1.&amp;nbsp;&lt;font style=&quot;font-size: 12px;&quot;&gt;Model deteksi kerusakan berbasis YOLOv8 yang terintegrasi dengan Human Pose Estimation&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;font&gt;2.&amp;nbsp;&lt;/font&gt;Pipeline pengolahan citra adaptif untuk kondisi low-light (implementasi DCE).&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;3.&lt;/font&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;font&gt;&amp;nbsp;&lt;/font&gt;Hasil uji akurasi awal terhadap dataset simulasi/lapangan.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;4.&lt;font style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;Minimal 1 (satu) artikel ilmiah dipublikasikan di prosiding atau jurnal nasional/terindeks.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Indikator Kinerja:&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;1. Tercapainya akurasi deteksi kerusakan ≥ 80% pada dataset uji.&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;2.&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Pengurangan noise citra malam hari (low-light) minimal 30% dibandingkan metode konvensional.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;font&gt;3. P&lt;/font&gt;ublikasi ilmiah nasional/terindeks.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="289" y="260" width="250" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="pj2v-7K1wGIa9h39KFa2-9" value="&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Ruang Lingkup:&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;1.&amp;nbsp;Ekstraksi koordinat spasial dari hasil deteksi.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;2.&amp;nbsp;Pembuatan peta kerusakan secara real-time.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;3. Analisis data untuk prediksi kegagalan infrastruktur (predictive maintenance).&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Luaran:&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;1&lt;/font&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;font&gt;. S&lt;/font&gt;istem analisis spasial untuk pemetaan kerusakan rel secara real-time.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;2.&lt;/font&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;font&gt;&amp;nbsp;&lt;/font&gt;Rekomendasi awal sistem prediksi kegagalan (predictive maintenance) berbasis AI.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;3.&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Laporan hasil uji laboratorium terhadap ketepatan koordinat kerusakan.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;4.&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Minimal 1 (satu) draf paten atau Hak Kekayaan Intelektual (HKI).&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Indikator Kinerja:&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;1.&lt;/font&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;font&gt; V&lt;/font&gt;alidasi awal sistem koordinat kerusakan dengan deviasi ≤ 10 cm.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;font&gt;2.&amp;nbsp;&lt;/font&gt;Tersedia algoritma prediksi kegagalan yang siap diuji pada prototipe.&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;3.&amp;nbsp;Minimal 1 draf paten atau HKI didaftarkan.&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="565" y="260" width="250" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="pj2v-7K1wGIa9h39KFa2-12" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.444;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pj2v-7K1wGIa9h39KFa2-3" target="pj2v-7K1wGIa9h39KFa2-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pj2v-7K1wGIa9h39KFa2-35" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="130" as="sourcePoint" />
+            <mxPoint x="130" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="145" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pj2v-7K1wGIa9h39KFa2-36" style="rounded=0;orthogonalLoop=1;jettySize=auto;elbow=vertical;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="130" as="sourcePoint" />
+            <mxPoint x="689.5" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
